@@ -1,0 +1,3 @@
+cd ~
+wget http://ronan.collobert.com/senna/senna-v3.0.tgz
+tar zxvf senna-v3.0.tgz
